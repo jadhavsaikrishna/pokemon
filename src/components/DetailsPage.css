@@ -1,0 +1,18 @@
+/* DetailsPage.css */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+/* detailsPage.css */
+.details-page {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .details-content {
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  
